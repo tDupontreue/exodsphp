@@ -1,0 +1,19 @@
+form.form {
+    display: table;
+}
+
+div.form2 {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 20px;
+}
+
+label {
+    padding-right: 20px;
+}
+div.formulaire{
+    text-align: center;
+}
